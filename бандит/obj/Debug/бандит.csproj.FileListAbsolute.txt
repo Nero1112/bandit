@@ -1,0 +1,18 @@
+c:\users\vital\documents\visual studio 2012\Projects\бандит\бандит\bin\Debug\бандит.exe.config
+c:\users\vital\documents\visual studio 2012\Projects\бандит\бандит\bin\Debug\бандит.exe
+c:\users\vital\documents\visual studio 2012\Projects\бандит\бандит\bin\Debug\бандит.pdb
+c:\users\vital\documents\visual studio 2012\Projects\бандит\бандит\obj\Debug\бандит.csprojResolveAssemblyReference.cache
+c:\users\vital\documents\visual studio 2012\Projects\бандит\бандит\obj\Debug\бандит.Бандит.resources
+c:\users\vital\documents\visual studio 2012\Projects\бандит\бандит\obj\Debug\бандит.Properties.Resources.resources
+c:\users\vital\documents\visual studio 2012\Projects\бандит\бандит\obj\Debug\бандит.csproj.GenerateResource.Cache
+c:\users\vital\documents\visual studio 2012\Projects\бандит\бандит\obj\Debug\бандит.exe
+c:\users\vital\documents\visual studio 2012\Projects\бандит\бандит\obj\Debug\бандит.pdb
+E:\сесія 2020\с#\бандит\бандит\bin\Debug\бандит.exe.config
+E:\сесія 2020\с#\бандит\бандит\obj\Debug\бандит.exe
+E:\сесія 2020\с#\бандит\бандит\obj\Debug\бандит.pdb
+E:\сесія 2020\с#\бандит\бандит\bin\Debug\бандит.exe
+E:\сесія 2020\с#\бандит\бандит\bin\Debug\бандит.pdb
+E:\сесія 2020\с#\бандит\бандит\obj\Debug\бандит.csprojResolveAssemblyReference.cache
+E:\сесія 2020\с#\бандит\бандит\obj\Debug\бандит.Бандит.resources
+E:\сесія 2020\с#\бандит\бандит\obj\Debug\бандит.Properties.Resources.resources
+E:\сесія 2020\с#\бандит\бандит\obj\Debug\бандит.csproj.GenerateResource.Cache
